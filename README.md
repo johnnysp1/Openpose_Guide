@@ -1,8 +1,8 @@
 # Guide for using OpenPose: https://github.com/CMU-Perceptual-Computing-Lab/openpose<br>
-Requirements:<br>
+Requirements:
 Cuda 11.0<br>
 Cudnn 8.0.5<br>
-`sudo apt-get install essential-build cmake`
+`sudo apt-get install essential-build cmake`<br>
 other requirement will be installed in the following steps automatically<br>
 Install prerequisites of Caffe:<br>
 `sudo bash ./scripts/ubuntu/install_deps.sh`<br>
