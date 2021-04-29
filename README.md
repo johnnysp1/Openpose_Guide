@@ -1,5 +1,5 @@
 # Guide for using OpenPose: https://github.com/CMU-Perceptual-Computing-Lab/openpose<br>
-Requirements:
+Requirements:<br>
 Cuda 11.0<br>
 Cudnn 8.0.5<br>
 `sudo apt-get install essential-build cmake`<br>
